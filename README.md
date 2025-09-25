@@ -145,7 +145,7 @@ Contributions are welcome!  If you'd like to contribute to this project, please 
 
 ## License Information
 
-This project does not have a specified license. All rights are reserved by the owner.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
